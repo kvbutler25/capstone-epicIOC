@@ -1,0 +1,6 @@
+record(stringin, "baseball") { 
+
+field(DESC, "Testing the softIOC") 
+field(PINI, "YES")
+
+}
