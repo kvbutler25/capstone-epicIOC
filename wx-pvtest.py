@@ -1,3 +1,5 @@
+# TODO: add button for dynamic pvField additon/removal
+
 import wx, epics, epics.wx
 
 
